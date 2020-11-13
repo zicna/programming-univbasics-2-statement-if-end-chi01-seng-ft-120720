@@ -15,6 +15,8 @@ end
 
 puts "Hey, it's 2019"
 
+this_year = 2019
+
 
 
 
